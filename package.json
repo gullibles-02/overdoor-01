@@ -1,0 +1,12 @@
+{
+  "name": "an1erSBHPVrQOA3lzgfaxKZRX8L7q5jWTsdey1RTlB1mapoqZM",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "สถิติหวยออกวันศุกร์ เลขเด็ดงวดนี้ ถึง สถิติหวยออกวันศุกร์ 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด เว็บไซต์หวยไทยขอนำเสนอชุดเลขจาก หวยพรเทพ 1462 เข้าต่อเนื่",
+  "repository": "https://github.com/gullibles-02/overdoor-01",
+  "keywords": ["สถิติหวยออกวันศุกร์","สถิติหวยออกวันศุกร์ 999Lucky"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

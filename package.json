@@ -1,10 +1,13 @@
 {
-  "name": "GGBV5AN9lBHZQbH3k6p0yKIdu7t46PXHbfcoJlmJIYODakvQSI",
+  "name": "ชัดเจนหวย เล่นที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.37",
   "description": "ชัดเจนหวย สูตรหวยลาว ชัดเจนหวย หาก ชัดเจนหวย Lotto หวยออนไลน์ อันดับหนึ่ง เป็นสูตรคำนวณหา เลขเด่น เลขวิ่ง เพื่อไว้ใช้ประกอบการตัดสินใจ ในการเลือกซื้อหวยลาว",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": ["ชัดเจนหวย","ชัดเจนหวย Lotto"],
+  "keywords": [
+    "ชัดเจนหวย",
+    "ชัดเจนหวย Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

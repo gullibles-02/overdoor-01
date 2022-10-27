@@ -1,10 +1,13 @@
 {
-  "name": "UJMOh1VQVwJib41dE96Ufw28Nc7VzdjxpWUTOTbDlAzESmlI7R",
+  "name": "หวยหุ้นอียิปต์วันนี้ เลือกยังไง - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "หวยหุ้นอียิปต์วันนี้ เช่น กะ หวยหุ้นอียิปต์วันนี้ Ltobet หวยออนไลน์ อันดับหนึ่ง đặC BiệT ออก 45633 รางวัล หวยหุ้นอียิปต์วันนี้ 2 ตัวบนก็คือ 33 นั่นเองออกโด",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": ["หวยหุ้นอียิปต์วันนี้","หวยหุ้นอียิปต์วันนี้ Ltobet"],
+  "keywords": [
+    "หวยหุ้นอียิปต์วันนี้",
+    "หวยหุ้นอียิปต์วันนี้ Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

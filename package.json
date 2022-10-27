@@ -1,13 +1,10 @@
 {
-  "name": "thailotto เลือกยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
+  "name": "wJ1fNJ4ka11kAxytJSjKplEnqsfASAFVGHWtygE7PMoJAA9Quw",
   "theme": "syntax",
   "version": "1.0.12",
-  "description": "thailotto หวยหุ้นดาวโจนส์ คือ เท่ากับ thailotto ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง หวยที่ใช้ผลการปิดตลาดหุ้นที่ชื่อหุ้น Dow thailotto Jones ดาวน์โจนส์",
+  "description": "หุ้นจีนย้อนหลัง เลขเด็ดเลขดัง แต่ว่า หุ้นจีนย้อนหลัง Huay999 หวย999 หวยออนไลน์ มีหวยทุกชนิด หวยรัฐบาลงวดนี้ ของเจ้ฟองเบียร์ งวดวันที่ 1665 มาแล้ว มาตามกระแ",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": [
-    "THAILOTTO",
-    "THAILOTTO 999Lucky"
-  ],
+  "keywords": ["หุ้นจีนย้อนหลัง","หุ้นจีนย้อนหลัง Huay999"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -1,10 +1,13 @@
 {
-  "name": "wJ1fNJ4ka11kAxytJSjKplEnqsfASAFVGHWtygE7PMoJAA9Quw",
+  "name": "หุ้นจีนย้อนหลัง ที่ไหน - เว็บใหม่ huay999 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "หุ้นจีนย้อนหลัง เลขเด็ดเลขดัง แต่ว่า หุ้นจีนย้อนหลัง Huay999 หวย999 หวยออนไลน์ มีหวยทุกชนิด หวยรัฐบาลงวดนี้ ของเจ้ฟองเบียร์ งวดวันที่ 1665 มาแล้ว มาตามกระแ",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": ["หุ้นจีนย้อนหลัง","หุ้นจีนย้อนหลัง Huay999"],
+  "keywords": [
+    "หุ้นจีนย้อนหลัง",
+    "หุ้นจีนย้อนหลัง Huay999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

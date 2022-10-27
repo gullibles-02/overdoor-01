@@ -1,13 +1,10 @@
 {
-  "name": "สถิติหวยยี่กีออกบ่อย มีคำตอบ - เว็บใหม่ masurebet 2023 ล่าสุด",
+  "name": "3v491gETEPfz0njtlYDiDCSSJ1FdzLhVA8xIc2dHRvT4MUqmoX",
   "theme": "syntax",
   "version": "1.0.54",
   "description": "สถิติหวยยี่กีออกบ่อย ผลหวยลาววันนี้ แต่ว่า สถิติหวยยี่กีออกบ่อย Masurebet มาชัวร์เบท หวยออนไลน์ มีหวยทุกชนิด สถิติหวยยี่กีออกบ่อย ออกอะไร เชิญรับชมได้เลย โ",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": [
-    "สถิติหวยยี่กีออกบ่อย",
-    "สถิติหวยยี่กีออกบ่อย Masurebet"
-  ],
+  "keywords": ["สถิติหวยยี่กีออกบ่อย","สถิติหวยยี่กีออกบ่อย Masurebet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

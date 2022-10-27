@@ -1,20 +1,10 @@
 {
-  "name": "นาฬิกา seiko ผู้ชาย รุ่นไหนดี เลือกยังไง - เว็บใหม่ lv177 2023 ล่าสุด",
+  "name": "QwbfI9HNnPzQG9SNtXRKJAIx0GX87QQlxFq8E50h7XMtANNDvo",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "นาฬิกา seiko ผู้ชาย รุ่นไหนดี เรียกได้ว่า เมื่อ นาฬิกา seiko ผู้ชาย รุ่นไหนดี Lv177 เว็บพนันออนไลน์ อันดับหนึ่ง เว็บเรามีแต่โปรดี ๆ แบบนี้ อาจจะมีหลายคนสงส",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": [
-    "นาฬิกา SEIKO ผู้ชาย รุ่นไหนดี",
-    "นาฬิกา",
-    "SEIKO",
-    "ผู้ชาย",
-    "รุ่นไหนดี",
-    "นาฬิกา Lv177",
-    "SEIKO Lv177",
-    "ผู้ชาย Lv177",
-    "รุ่นไหนดี Lv177"
-  ],
+  "keywords": ["นาฬิกา SEIKO ผู้ชาย รุ่นไหนดี","นาฬิกา","SEIKO","ผู้ชาย","รุ่นไหนดี","นาฬิกา Lv177","SEIKO Lv177","ผู้ชาย Lv177","รุ่นไหนดี Lv177"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

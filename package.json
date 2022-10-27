@@ -1,10 +1,13 @@
 {
-  "name": "bqqB8aYvyM6YhilpCSAIyJPK7KGhRfbwIaxxWXugGuxPX2l6Fs",
+  "name": "thailotto เลือกยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "thailotto หวยหุ้นดาวโจนส์ คือ เท่ากับ thailotto ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง หวยที่ใช้ผลการปิดตลาดหุ้นที่ชื่อหุ้น Dow thailotto Jones ดาวน์โจนส์",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": ["THAILOTTO","THAILOTTO 999Lucky"],
+  "keywords": [
+    "THAILOTTO",
+    "THAILOTTO 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

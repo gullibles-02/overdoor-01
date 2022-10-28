@@ -1,10 +1,16 @@
 {
-  "name": "9HHOZQGZMWivYWvju74NQnYlLmwq2SsO82tGlPiELbZP7nEdmA",
+  "name": "หุ้นสิงคโปร์ index มีคำตอบ - เว็บใหม่ uwin789 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "หุ้นสิงคโปร์ index เล่นหวยฮานอยออนไลน์จ่ายสูง แต่ หุ้นสิงคโปร์ index Uwin789 ยูวิน หวยออนไลน์ มีหวยทุกชนิด แบบไม่มีส่วนลด ไม่มีเว็บไหนให้มากกว่าเรา แทงหวยฮ",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": ["หุ้นสิงคโปร์ INDEX","หุ้นสิงคโปร์","INDEX","หุ้นสิงคโปร์ Uwin789","INDEX Uwin789"],
+  "keywords": [
+    "หุ้นสิงคโปร์ INDEX",
+    "หุ้นสิงคโปร์",
+    "INDEX",
+    "หุ้นสิงคโปร์ Uwin789",
+    "INDEX Uwin789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

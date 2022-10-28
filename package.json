@@ -1,10 +1,13 @@
 {
-  "name": "LpiTqCDLfpW3ufnXPju7IQKFwtPwfj0kEhmABnLnezbVW7ySIs",
+  "name": "ผลอินเดีย เลือกยังไง - เว็บใหม่ mawinbet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.78",
   "description": "ผลอินเดีย ผลการออกรางวัล ตั้งแต่ ผลอินเดีย ที่ Mawinbet เว็บหวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย Vipผลหวย",
   "repository": "https://github.com/gullibles-02/overdoor-01",
-  "keywords": ["ผลอินเดีย","ผลอินเดีย Mawinbet"],
+  "keywords": [
+    "ผลอินเดีย",
+    "ผลอินเดีย Mawinbet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
